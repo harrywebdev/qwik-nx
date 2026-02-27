@@ -93,6 +93,7 @@ This plugin supports Nx migrations and provides necessary version and code updat
 
 | qwik-nx version | Nx version                |
 | --------------- | ------------------------- |
+| ^3.3.0          | ^22.0.0                   |
 | ^3.2.0          | ^21.0.0                   |
 | ^3.1.0          | ^20.7.0                   |
 | ^3.0.0          | ^20.0.0                   |
